@@ -1,0 +1,8 @@
+{
+  "name": "RouteMind",
+  "description": "AI-powered school transportation management platform for fleet monitoring, route scheduling, student attendance, and operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
